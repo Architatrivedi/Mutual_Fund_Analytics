@@ -2,20 +2,20 @@
 
 1. NAV values showed a long-term upward trend across most mutual fund schemes from 2022–2026.
 
-2. SBI Mutual Fund maintained the highest AUM among major fund houses.
+2. Several schemes demonstrated stronger NAV growth compared to the overall market average.
 
-3. Monthly SIP inflows showed consistent growth from 2022 to 2025.
+3. Nippon India Mutual Fund recorded the highest Assets Under Management (AUM) among the analysed fund houses.
 
-4. Equity categories attracted higher inflows compared to debt categories.
+4. AUM distribution indicates that a small number of fund houses manage a significant share of total assets.
 
-5. Investors aged 25–35 contributed the largest share of transactions.
+5. Monthly SIP inflows remained relatively stable with periodic fluctuations throughout the observation period.
 
-6. Verified KYC investors dominated total transaction volume.
+6. Investor participation was highest in the 26–35 age group.
 
-7. Tier-1 cities generated significantly higher investment volumes than smaller cities.
+7. The 36–45 age group represented the second-largest investor segment.
 
-8. Certain mutual fund schemes showed strong positive return correlations.
+8. Investor participation declined significantly in the 56+ age category.
 
-9. Portfolio allocations were concentrated in Financial Services and IT sectors.
+9. Male investors accounted for approximately two-thirds of the investor base.
 
-10. Lower expense ratio funds generally demonstrated competitive long-term returns.
+10. Female participation represented roughly one-third of total investors, indicating potential growth opportunities in this segment.
